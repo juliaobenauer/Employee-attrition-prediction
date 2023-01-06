@@ -1,6 +1,6 @@
 # Employee Attrition prediction
 
-Machine Learning project with logictic regression, random forest and Support Vector Machine (SMV). 
+Machine Learning project with logictic regression, random forest and Support Vector Machine (SVM). 
 
 Goal: Determine factors that predict employee attrition using a binary target machine learning model.
 
